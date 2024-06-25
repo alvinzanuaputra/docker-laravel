@@ -9,6 +9,7 @@ Dockerfile  artisan        composer.lock  docker-compose.yml  resources  tests
 README.md   bootstrap      config         lang                routes     vendor
 app         composer.json  database       public              storage    webpack.mix.js
 alvinzanuaputra@alvinzanua:~/Laravel_docker$ 
+```
 
 
 - b. Selanjutnya, karena Shaniz696969 mengatakan bahwa aplikasi ini menggunakan relational database berupa MySQL, mau tidak mau kamu harus membuat container yang menjalankan image dari MySQL! Pastikan container berjalan sebagai daemon.
